@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Marek (ArqonOne)</h1>
+<h1 align="center">Hi, I'm Marek (ArqonOne)</h1>
 <h3 align="center">Java & Android Developer building real-world desktop and mobile applications</h3>
 
 ---
@@ -63,7 +63,7 @@ Sports analytics desktop app using Strava API & data visualization.
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=arqonone&show_icons=true&theme=default"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=arqonone&show_icons=true&locale=en&layout=compact" alt="arqonone"/>
 </p>
 
 <p align="center">
@@ -71,5 +71,7 @@ Sports analytics desktop app using Strava API & data visualization.
 </p>
 
 ---
+
+![](https://komarev.com/ghpvc/?username=arqonone)
 
 ⭐️ *Always open to interesting projects and collaboration.*
