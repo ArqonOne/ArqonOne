@@ -55,19 +55,14 @@ Sports analytics desktop app using Strava API & data visualization.
 
 ## 📫 Contact
 
-📧 marekkoubam@gmail.com  
-💼 LinkedIn: *(add your link)*
+📧 arqon.one@gmail.com
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=arqonone&show_icons=true&locale=en&layout=compact" alt="arqonone"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=arqonone&layout=compact"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=arqonone&" alt="arqonone"/>
 </p>
 
 ---
